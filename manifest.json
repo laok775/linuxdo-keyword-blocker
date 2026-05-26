@@ -1,0 +1,27 @@
+{
+  "manifest_version": 3,
+  "name": "Linux.do Keyword Blocker",
+  "description": "Hide Linux.do topics by keywords in title, category, tags, or excerpt.",
+  "version": "0.1.0",
+  "permissions": [
+    "storage"
+  ],
+  "host_permissions": [
+    "https://linux.do/*"
+  ],
+  "content_scripts": [
+    {
+      "matches": [
+        "https://linux.do/*"
+      ],
+      "js": [
+        "content.js"
+      ],
+      "run_at": "document_idle"
+    }
+  ],
+  "action": {
+    "default_title": "Linux.do Keyword Blocker",
+    "default_popup": "popup.html"
+  }
+}
