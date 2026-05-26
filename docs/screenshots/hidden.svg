@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720" role="img" aria-labelledby="title desc">
+  <title id="title">Linux.do Keyword Blocker hidden state</title>
+  <desc id="desc">Matched topics are removed from the topic list.</desc>
+  <rect width="1280" height="720" fill="#f7f8fa"/>
+  <rect x="0" y="0" width="1280" height="44" fill="#ffffff"/>
+  <line x1="0" y1="44" x2="1280" y2="44" stroke="#e4e8ee"/>
+  <circle cx="286" cy="22" r="18" fill="#f4c542"/>
+  <path d="M268 22h36a18 18 0 0 0-36 0Z" fill="#151a21"/>
+  <text x="315" y="28" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="16" font-weight="700" fill="#151a21">LINUX DO</text>
+  <g transform="translate(230 62)" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="16" fill="#1f2937">
+    <text x="8" y="28">笔记本电脑清灰求助</text>
+    <text x="8" y="80">如何测试和对比Harness的有效性？</text>
+    <text x="8" y="132">我已经厌倦了每天打开L站都是如何如何白嫖某某模型了</text>
+    <text x="8" y="184">目前codex怎么调用DEEPSEEK?</text>
+    <text x="8" y="236">毕业gap一年，第三方背调何解</text>
+    <text x="8" y="288">站内之前看到过类似这种风格的UI，找不到了</text>
+    <text x="8" y="340">家庭网络硬件入门：光猫、路由器、交换机、AP、防火墙一次讲清</text>
+    <text x="8" y="392">美团要裁员了吗？</text>
+    <text x="8" y="444">claude opus4.7破限提示词-LGBT还是太权威了</text>
+    <text x="8" y="496">有没有佬友研究下Twilio 如何绕过验证码屏蔽</text>
+    <g stroke="#e6ebf1">
+      <line x1="0" y1="52" x2="800" y2="52"/>
+      <line x1="0" y1="104" x2="800" y2="104"/>
+      <line x1="0" y1="156" x2="800" y2="156"/>
+      <line x1="0" y1="208" x2="800" y2="208"/>
+      <line x1="0" y1="260" x2="800" y2="260"/>
+      <line x1="0" y1="312" x2="800" y2="312"/>
+      <line x1="0" y1="364" x2="800" y2="364"/>
+      <line x1="0" y1="416" x2="800" y2="416"/>
+      <line x1="0" y1="468" x2="800" y2="468"/>
+      <line x1="0" y1="520" x2="800" y2="520"/>
+    </g>
+  </g>
+  <g transform="translate(980 0)">
+    <rect width="260" height="312" fill="#f8fafc" stroke="#d6dee9"/>
+    <text x="16" y="25" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="17" font-weight="700" fill="#111827">Linux.do 屏蔽词</text>
+    <text x="16" y="47" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="12" fill="#64748b">已启用，7 个关键词</text>
+    <rect x="218" y="14" width="30" height="18" rx="9" fill="#1f7a5c"/>
+    <circle cx="238" cy="23" r="7" fill="#ffffff"/>
+    <rect x="16" y="86" width="166" height="28" rx="5" fill="#ffffff" stroke="#cbd5e1"/>
+    <text x="24" y="105" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="12" fill="#64748b">输入后回车</text>
+    <rect x="190" y="86" width="46" height="28" rx="5" fill="#1f7a5c"/>
+    <text x="201" y="105" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="12" font-weight="700" fill="#ffffff">添加</text>
+    <rect x="16" y="138" width="116" height="28" rx="5" fill="#ffffff" stroke="#cbd5e1"/>
+    <text x="28" y="157" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="12" font-weight="700" fill="#0f172a">包含关键词</text>
+    <rect x="142" y="138" width="94" height="28" rx="5" fill="#ffffff" stroke="#1f7a5c" stroke-width="2"/>
+    <text x="154" y="157" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="12" font-weight="700" fill="#0f172a">直接隐藏</text>
+    <g font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="12" fill="#1f2937">
+      <rect x="16" y="180" width="220" height="28" rx="5" fill="#f1f5f9" stroke="#dbe3ee"/><text x="28" y="199">注册</text><text x="214" y="199">x</text>
+      <rect x="16" y="214" width="220" height="28" rx="5" fill="#f1f5f9" stroke="#dbe3ee"/><text x="28" y="233">接码</text><text x="214" y="233">x</text>
+      <rect x="16" y="248" width="220" height="28" rx="5" fill="#f1f5f9" stroke="#dbe3ee"/><text x="28" y="267">pp</text><text x="214" y="267">x</text>
+    </g>
+  </g>
+</svg>

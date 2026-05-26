@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="720" viewBox="0 0 1280 720" role="img" aria-labelledby="title desc">
+  <title id="title">Linux.do Keyword Blocker paused state</title>
+  <desc id="desc">The extension popup is open with the switch off, and all topics are visible.</desc>
+  <rect width="1280" height="720" fill="#f7f8fa"/>
+  <rect x="0" y="0" width="1280" height="44" fill="#ffffff"/>
+  <line x1="0" y1="44" x2="1280" y2="44" stroke="#e4e8ee"/>
+  <circle cx="286" cy="22" r="18" fill="#f4c542"/>
+  <path d="M268 22h36a18 18 0 0 0-36 0Z" fill="#151a21"/>
+  <text x="315" y="28" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="16" font-weight="700" fill="#151a21">LINUX DO</text>
+  <g transform="translate(230 62)">
+    <rect width="800" height="1" fill="#e6ebf1"/>
+    <g font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="16" fill="#1f2937">
+      <text x="8" y="28">gopay大法依旧存活，佬友可以去试开gptplus</text>
+      <text x="8" y="80">最近一个月才慢慢接触大家买鸡玩鸡，第一次是注册了微软的邮箱</text>
+      <text x="8" y="132">笔记本电脑清灰求助</text>
+      <text x="8" y="184">请问佬们，最便宜的接码方式是什么，还没给plus接过</text>
+      <text x="8" y="236">如何测试和对比Harness的有效性？</text>
+      <text x="8" y="288">佬们，请问怎么获得国外号码，平时就接个短信，注册几个软件</text>
+      <text x="8" y="340">我已经厌倦了每天打开L站都是如何如何白嫖某某模型了</text>
+      <text x="8" y="392">目前codex怎么调用DEEPSEEK?</text>
+      <text x="8" y="444">毕业gap一年，第三方背调何解</text>
+    </g>
+    <g stroke="#e6ebf1">
+      <line x1="0" y1="52" x2="800" y2="52"/>
+      <line x1="0" y1="104" x2="800" y2="104"/>
+      <line x1="0" y1="156" x2="800" y2="156"/>
+      <line x1="0" y1="208" x2="800" y2="208"/>
+      <line x1="0" y1="260" x2="800" y2="260"/>
+      <line x1="0" y1="312" x2="800" y2="312"/>
+      <line x1="0" y1="364" x2="800" y2="364"/>
+      <line x1="0" y1="416" x2="800" y2="416"/>
+      <line x1="0" y1="468" x2="800" y2="468"/>
+    </g>
+  </g>
+  <g transform="translate(980 0)">
+    <rect width="260" height="312" fill="#f8fafc" stroke="#d6dee9"/>
+    <text x="16" y="25" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="17" font-weight="700" fill="#111827">Linux.do 屏蔽词</text>
+    <text x="16" y="47" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="12" fill="#64748b">已暂停，7 个关键词</text>
+    <rect x="218" y="14" width="30" height="18" rx="9" fill="#c6ceda"/>
+    <circle cx="228" cy="23" r="7" fill="#ffffff"/>
+    <text x="16" y="74" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="12" font-weight="700" fill="#334155">关键词</text>
+    <rect x="16" y="86" width="166" height="28" rx="5" fill="#ffffff" stroke="#cbd5e1"/>
+    <text x="24" y="105" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="12" fill="#64748b">输入后回车</text>
+    <rect x="190" y="86" width="46" height="28" rx="5" fill="#1f7a5c"/>
+    <text x="201" y="105" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="12" font-weight="700" fill="#ffffff">添加</text>
+    <rect x="16" y="138" width="116" height="28" rx="5" fill="#ffffff" stroke="#cbd5e1"/>
+    <text x="28" y="157" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="12" font-weight="700" fill="#0f172a">包含关键词</text>
+    <rect x="142" y="138" width="94" height="28" rx="5" fill="#ffffff" stroke="#cbd5e1"/>
+    <text x="154" y="157" font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="12" font-weight="700" fill="#0f172a">淡化显示</text>
+    <g font-family="Arial, 'Microsoft YaHei', sans-serif" font-size="12" fill="#1f2937">
+      <rect x="16" y="180" width="220" height="28" rx="5" fill="#f1f5f9" stroke="#dbe3ee"/><text x="28" y="199">pp</text><text x="214" y="199">x</text>
+      <rect x="16" y="214" width="220" height="28" rx="5" fill="#f1f5f9" stroke="#dbe3ee"/><text x="28" y="233">PayPal</text><text x="214" y="233">x</text>
+      <rect x="16" y="248" width="220" height="28" rx="5" fill="#f1f5f9" stroke="#dbe3ee"/><text x="28" y="267">gopay</text><text x="214" y="267">x</text>
+    </g>
+  </g>
+</svg>
